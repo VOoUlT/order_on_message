@@ -1,0 +1,17 @@
+*.pyc
+venv
+.vscode
+__pycache__
+*.exe
+config.yml
+*.session
+*.session-journal
+
+
+env
+process.txt
+.idea
+.env
+/futures_log/
+status.log
+*.log
